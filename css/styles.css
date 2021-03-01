@@ -1,0 +1,26 @@
+
+
+div h1{
+  margin-top: 30px;
+  font-family: "sofia", sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+div{
+  border: 1px solid black;
+}
+#todo, #completed{
+  height: auto;
+  border: 1px solid red !important;
+}
+#div1, #div2{
+  height: auto;
+}
+
+#todo p{
+  display: none;
+}
+#completed{
+  display: none;
+
+}
