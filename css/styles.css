@@ -20,9 +20,6 @@ div{
   margin-top: 12px;
 }
 
-#todo p{
-  display: none;
-}
 #completed{
   display: none;
 
