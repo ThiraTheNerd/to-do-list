@@ -16,6 +16,9 @@ div{
 #div1, #div2{
   height: auto;
 }
+.btn{
+  margin-top: 12px;
+}
 
 #todo p{
   display: none;
